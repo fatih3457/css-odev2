@@ -1,0 +1,39 @@
+.box1 {
+    width: auto;
+    height: 70px;
+    background-color: rgb(184, 165, 165);
+    text-align: center;
+}
+
+.box2 {
+    width: 450px;
+    height: 100px;
+    background-color: rgb(152, 162, 189);
+    float: left;
+    margin: 5px;
+}
+
+.box3 {
+    width: 500px;
+    height: 100px;
+    background-color: rgb(152, 162, 189);
+    float: right;
+    margin: 5px;
+    text-align: center;
+}
+
+.box4 {
+    width: 280px;
+    height: 100px;
+    background-color: rgb(152, 162, 189);
+    float: right;
+    margin: 5px;
+    text-align: center;
+}
+
+.p {
+    text-align: center;
+}
+
+
+
